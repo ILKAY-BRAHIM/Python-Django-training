@@ -1,2 +1,2 @@
 # Python-Django-training
-trainingg
+training
