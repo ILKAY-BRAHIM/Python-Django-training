@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 try:
-    with open('number.txt', 'r') as file:
+    with open('numbers.txt', 'r') as file:
         content = file.read()
         parts = content.split(',')
         for element in parts:
